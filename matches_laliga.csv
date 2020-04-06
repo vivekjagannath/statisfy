@@ -1,0 +1,453 @@
+match_id,match_week,season_season_id,season_season_name,home_team_home_team_id,home_team_home_team_name,home_score,home_team_home_team_gender,home_team_country_id,home_team_country_name,away_team_away_team_id,away_team_away_team_name,away_score,away_team_away_team_gender,away_team_country_id,away_team_country_name,competition_competition_id,competition_competition_name,competition_stage_id,competition_stage_name,competition_country_name
+69228,16,41,2008/2009,222,Villarreal,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69138,3,41,2008/2009,1041,Sporting Gijón,1,male,214,Spain,217,Barcelona,6,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69139,24,41,2008/2009,217,Barcelona,1,male,214,Spain,214,Espanyol,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69142,28,41,2008/2009,217,Barcelona,6,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69147,1,41,2008/2009,444,Numancia,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69149,14,41,2008/2009,217,Barcelona,4,male,214,Spain,207,Valencia,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69171,13,41,2008/2009,213,Sevilla,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69177,27,41,2008/2009,403,Almería,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69183,19,41,2008/2009,217,Barcelona,5,male,214,Spain,219,Deportivo La Coruna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69185,25,41,2008/2009,212,Atlético Madrid,4,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69189,20,41,2008/2009,217,Barcelona,4,male,214,Spain,444,Numancia,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69195,23,41,2008/2009,218,Real Betis,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69225,15,41,2008/2009,217,Barcelona,2,male,214,Spain,220,Real Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69235,9,41,2008/2009,223,Málaga,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69215,2,41,2008/2009,217,Barcelona,1,male,214,Spain,1217,Racing Santander,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69216,26,41,2008/2009,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69212,6,41,2008/2009,217,Barcelona,6,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69207,4,41,2008/2009,217,Barcelona,3,male,214,Spain,218,Real Betis,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69217,35,41,2008/2009,217,Barcelona,3,male,214,Spain,222,Villarreal,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69231,22,41,2008/2009,217,Barcelona,3,male,214,Spain,1041,Sporting Gijón,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69209,21,41,2008/2009,1217,Racing Santander,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69211,5,41,2008/2009,214,Espanyol,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69232,8,41,2008/2009,217,Barcelona,5,male,214,Spain,403,Almería,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69223,31,41,2008/2009,216,Getafe,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69222,30,41,2008/2009,217,Barcelona,2,male,214,Spain,1220,Recreativo Huelva,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69230,18,41,2008/2009,422,Osasuna,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69249,34,41,2008/2009,220,Real Madrid,2,male,214,Spain,217,Barcelona,6,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69251,33,41,2008/2009,207,Valencia,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69279,10,41,2008/2009,217,Barcelona,6,male,214,Spain,901,Real Valladolid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69273,29,41,2008/2009,901,Real Valladolid,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69285,11,41,2008/2009,1220,Recreativo Huelva,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68364,8,40,2007/2008,222,Villarreal,3,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68363,10,40,2007/2008,901,Real Valladolid,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68356,14,40,2007/2008,214,Espanyol,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68365,26,40,2007/2008,212,Atlético Madrid,4,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68358,32,40,2007/2008,1220,Recreativo Huelva,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68359,33,40,2007/2008,217,Barcelona,0,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68366,37,40,2007/2008,217,Barcelona,2,male,214,Spain,1043,Mallorca,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69146,23,40,2007/2008,213,Sevilla,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69151,6,40,2007/2008,221,Levante,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69166,11,40,2007/2008,217,Barcelona,3,male,214,Spain,218,Real Betis,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69158,9,40,2007/2008,217,Barcelona,2,male,214,Spain,403,Almería,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69169,2,40,2007/2008,217,Barcelona,3,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69170,15,40,2007/2008,217,Barcelona,2,male,214,Spain,219,Deportivo La Coruna,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68360,25,40,2007/2008,217,Barcelona,5,male,214,Spain,221,Levante,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68361,36,40,2007/2008,220,Real Madrid,4,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69141,35,40,2007/2008,217,Barcelona,6,male,214,Spain,207,Valencia,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69145,16,40,2007/2008,207,Valencia,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69148,4,40,2007/2008,217,Barcelona,2,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69173,20,40,2007/2008,217,Barcelona,1,male,214,Spain,1217,Racing Santander,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69187,22,40,2007/2008,217,Barcelona,1,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69180,1,40,2007/2008,1217,Racing Santander,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69178,12,40,2007/2008,216,Getafe,2,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69186,38,40,2007/2008,1230,Real Murcia,3,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69181,21,40,2007/2008,215,Athletic Bilbao,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69182,24,40,2007/2008,395,Real Zaragoza,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69143,5,40,2007/2008,217,Barcelona,4,male,214,Spain,395,Real Zaragoza,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69144,7,40,2007/2008,217,Barcelona,3,male,214,Spain,212,Atlético Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69184,13,40,2007/2008,217,Barcelona,3,male,214,Spain,1220,Recreativo Huelva,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69153,15,37,2004/2005,608,Albacete,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68313,8,37,2004/2005,217,Barcelona,3,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68314,14,37,2004/2005,217,Barcelona,4,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68315,17,37,2004/2005,217,Barcelona,2,male,214,Spain,221,Levante,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68316,34,37,2004/2005,217,Barcelona,2,male,214,Spain,608,Albacete,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68353,7,37,2004/2005,214,Espanyol,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68352,32,37,2004/2005,217,Barcelona,2,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69239,37,21,2009/2010,213,Sevilla,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69221,32,21,2009/2010,217,Barcelona,3,male,214,Spain,219,Deportivo La Coruna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69218,13,21,2009/2010,219,Deportivo La Coruna,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69210,19,21,2009/2010,901,Real Valladolid,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69219,17,21,2009/2010,627,Tenerife,0,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69220,20,21,2009/2010,1041,Sporting Gijón,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69214,34,21,2009/2010,217,Barcelona,3,male,214,Spain,1219,Xerez,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69227,27,21,2009/2010,395,Real Zaragoza,2,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69229,2,21,2009/2010,216,Getafe,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69233,23,21,2009/2010,217,Barcelona,4,male,214,Spain,1217,Racing Santander,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69213,33,21,2009/2010,214,Espanyol,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69224,26,21,2009/2010,217,Barcelona,3,male,214,Spain,207,Valencia,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69226,25,21,2009/2010,403,Almería,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69237,22,21,2009/2010,212,Atlético Madrid,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69238,24,21,2009/2010,217,Barcelona,2,male,214,Spain,223,Málaga,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69242,38,21,2009/2010,217,Barcelona,4,male,214,Spain,901,Real Valladolid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69247,30,21,2009/2010,217,Barcelona,4,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69240,21,21,2009/2010,217,Barcelona,2,male,214,Spain,216,Getafe,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69244,35,21,2009/2010,222,Villarreal,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69241,36,21,2009/2010,217,Barcelona,4,male,214,Spain,627,Tenerife,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69250,10,21,2009/2010,217,Barcelona,4,male,214,Spain,1043,Mallorca,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69243,18,21,2009/2010,217,Barcelona,4,male,214,Spain,213,Sevilla,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69254,4,21,2009/2010,1217,Racing Santander,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69256,6,21,2009/2010,217,Barcelona,1,male,214,Spain,403,Almería,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69253,8,21,2009/2010,217,Barcelona,6,male,214,Spain,395,Real Zaragoza,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69257,28,21,2009/2010,217,Barcelona,2,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69255,5,21,2009/2010,223,Málaga,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69267,15,21,2009/2010,1219,Xerez,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69262,12,21,2009/2010,217,Barcelona,1,male,214,Spain,220,Real Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69252,7,21,2009/2010,207,Valencia,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69259,31,21,2009/2010,220,Real Madrid,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69277,9,21,2009/2010,422,Osasuna,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69288,11,21,2009/2010,215,Athletic Bilbao,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69292,3,21,2009/2010,217,Barcelona,5,male,214,Spain,212,Atlético Madrid,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69298,29,21,2009/2010,1043,Mallorca,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70303,18,26,2014/2015,217,Barcelona,3,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70273,3,26,2014/2015,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267183,28,26,2014/2015,217,Barcelona,2,male,214,Spain,220,Real Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266871,22,26,2014/2015,215,Athletic Bilbao,2,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266967,27,26,2014/2015,322,Eibar,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265866,35,26,2014/2015,373,Córdoba,0,male,214,Spain,217,Barcelona,8,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265896,8,26,2014/2015,217,Barcelona,3,male,214,Spain,322,Eibar,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266148,24,26,2014/2015,217,Barcelona,0,male,214,Spain,223,Málaga,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266142,31,26,2014/2015,213,Sevilla,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266240,17,26,2014/2015,210,Real Sociedad,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266230,19,26,2014/2015,219,Deportivo La Coruna,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266320,14,26,2014/2015,217,Barcelona,5,male,214,Spain,214,Espanyol,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266560,13,26,2014/2015,207,Valencia,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266525,32,26,2014/2015,217,Barcelona,2,male,214,Spain,207,Valencia,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266631,37,26,2014/2015,212,Atlético Madrid,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266741,23,26,2014/2015,217,Barcelona,5,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266794,20,26,2014/2015,1042,Elche,0,male,214,Spain,217,Barcelona,6,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266838,5,26,2014/2015,223,Málaga,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266916,26,26,2014/2015,217,Barcelona,6,male,214,Spain,360,Rayo Vallecano,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266929,29,26,2014/2015,209,Celta Vigo,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267085,9,26,2014/2015,220,Real Madrid,3,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267197,38,26,2014/2015,217,Barcelona,2,male,214,Spain,219,Deportivo La Coruna,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267301,10,26,2014/2015,217,Barcelona,0,male,214,Spain,209,Celta Vigo,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267343,25,26,2014/2015,1049,Granada,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267561,7,26,2014/2015,360,Rayo Vallecano,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265963,34,26,2014/2015,217,Barcelona,6,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266770,4,26,2014/2015,221,Levante,0,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70264,15,26,2014/2015,216,Getafe,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267400,30,26,2014/2015,217,Barcelona,4,male,214,Spain,403,Almería,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266846,16,26,2014/2015,217,Barcelona,5,male,214,Spain,373,Córdoba,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267499,11,26,2014/2015,403,Almería,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265835,12,26,2014/2015,217,Barcelona,5,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266045,36,26,2014/2015,217,Barcelona,2,male,214,Spain,210,Real Sociedad,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267597,21,26,2014/2015,217,Barcelona,3,male,214,Spain,222,Villarreal,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266117,6,26,2014/2015,217,Barcelona,6,male,214,Spain,1049,Granada,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266406,2,26,2014/2015,222,Villarreal,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266531,33,26,2014/2015,214,Espanyol,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266921,1,26,2014/2015,217,Barcelona,3,male,214,Spain,1042,Elche,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266310,34,27,2015/2016,219,Deportivo La Coruna,0,male,214,Spain,217,Barcelona,8,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266498,29,27,2015/2016,217,Barcelona,6,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265839,26,27,2015/2016,217,Barcelona,2,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265958,37,27,2015/2016,217,Barcelona,5,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266106,30,27,2015/2016,222,Villarreal,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266160,23,27,2015/2016,221,Levante,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266236,1,27,2015/2016,215,Athletic Bilbao,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266254,24,27,2015/2016,217,Barcelona,6,male,214,Spain,209,Celta Vigo,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266424,12,27,2015/2016,220,Real Madrid,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266467,5,27,2015/2016,209,Celta Vigo,4,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266653,27,27,2015/2016,360,Rayo Vallecano,1,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266620,19,27,2015/2016,217,Barcelona,4,male,214,Spain,1049,Granada,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266664,32,27,2015/2016,210,Real Sociedad,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266815,16,27,2015/2016,1041,Sporting Gijón,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266885,13,27,2015/2016,217,Barcelona,4,male,214,Spain,210,Real Sociedad,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267274,14,27,2015/2016,207,Valencia,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267327,17,27,2015/2016,217,Barcelona,4,male,214,Spain,218,Real Betis,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267422,2,27,2015/2016,217,Barcelona,1,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267533,31,27,2015/2016,217,Barcelona,1,male,214,Spain,220,Real Madrid,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267506,38,27,2015/2016,1049,Granada,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267611,6,27,2015/2016,217,Barcelona,2,male,214,Spain,208,Las Palmas,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266961,15,27,2015/2016,217,Barcelona,2,male,214,Spain,219,Deportivo La Coruna,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266056,28,27,2015/2016,322,Eibar,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265894,21,27,2015/2016,223,Málaga,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266670,18,27,2015/2016,214,Espanyol,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266149,20,27,2015/2016,217,Barcelona,6,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266166,3,27,2015/2016,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267273,25,27,2015/2016,208,Las Palmas,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267576,22,27,2015/2016,217,Barcelona,2,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266557,33,27,2015/2016,217,Barcelona,1,male,214,Spain,207,Valencia,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265944,35,27,2015/2016,217,Barcelona,6,male,214,Spain,1041,Sporting Gijón,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266986,36,27,2015/2016,218,Real Betis,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266490,4,27,2015/2016,217,Barcelona,4,male,214,Spain,221,Levante,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9827,26,1,2017/2018,208,Las Palmas,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9575,1,1,2017/2018,217,Barcelona,2,male,214,Spain,218,Real Betis,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9642,8,1,2017/2018,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9870,31,1,2017/2018,217,Barcelona,3,male,214,Spain,205,Leganés,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9661,10,1,2017/2018,215,Athletic Bilbao,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9700,14,1,2017/2018,217,Barcelona,2,male,214,Spain,209,Celta Vigo,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9742,18,1,2017/2018,217,Barcelona,3,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9682,12,1,2017/2018,205,Leganés,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9799,24,1,2017/2018,322,Eibar,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9717,15,1,2017/2018,222,Villarreal,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9673,11,1,2017/2018,217,Barcelona,2,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9650,9,1,2017/2018,217,Barcelona,2,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9912,35,1,2017/2018,219,Deportivo La Coruna,2,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9811,25,1,2017/2018,217,Barcelona,6,male,214,Spain,211,Girona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9765,20,1,2017/2018,218,Real Betis,0,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9736,17,1,2017/2018,220,Real Madrid,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9948,38,1,2017/2018,217,Barcelona,1,male,214,Spain,210,Real Sociedad,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9602,4,1,2017/2018,216,Getafe,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9924,36,1,2017/2018,217,Barcelona,2,male,214,Spain,220,Real Madrid,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9726,16,1,2017/2018,217,Barcelona,4,male,214,Spain,219,Deportivo La Coruna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9592,3,1,2017/2018,217,Barcelona,5,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9774,21,1,2017/2018,217,Barcelona,2,male,214,Spain,206,Deportivo Alavés,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9581,2,1,2017/2018,206,Deportivo Alavés,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9889,33,1,2017/2018,209,Celta Vigo,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9880,32,1,2017/2018,217,Barcelona,2,male,214,Spain,207,Valencia,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9754,19,1,2017/2018,210,Real Sociedad,2,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9928,34,1,2017/2018,217,Barcelona,5,male,214,Spain,222,Villarreal,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9695,13,1,2017/2018,207,Valencia,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9636,7,1,2017/2018,217,Barcelona,3,male,214,Spain,208,Las Palmas,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9837,27,1,2017/2018,217,Barcelona,1,male,214,Spain,212,Atlético Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9794,23,1,2017/2018,217,Barcelona,0,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9620,6,1,2017/2018,211,Girona,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9609,5,1,2017/2018,217,Barcelona,6,male,214,Spain,322,Eibar,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9783,22,1,2017/2018,214,Espanyol,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9855,29,1,2017/2018,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+9860,30,1,2017/2018,213,Sevilla,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267058,10,2,2016/2017,217,Barcelona,1,male,214,Spain,1049,Granada,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266669,3,2,2016/2017,217,Barcelona,1,male,214,Spain,206,Deportivo Alavés,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267464,24,2,2016/2017,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266477,17,2,2016/2017,222,Villarreal,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267432,38,2,2016/2017,217,Barcelona,4,male,214,Spain,322,Eibar,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267076,14,2,2016/2017,217,Barcelona,1,male,214,Spain,220,Real Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267590,31,2,2016/2017,223,Málaga,2,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267039,37,2,2016/2017,208,Las Palmas,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267373,32,2,2016/2017,217,Barcelona,3,male,214,Spain,210,Real Sociedad,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266892,2,2,2016/2017,215,Athletic Bilbao,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266952,36,2,2016/2017,217,Barcelona,4,male,214,Spain,222,Villarreal,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266299,26,2,2016/2017,217,Barcelona,5,male,214,Spain,209,Celta Vigo,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266440,28,2,2016/2017,217,Barcelona,4,male,214,Spain,207,Valencia,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267569,33,2,2016/2017,220,Real Madrid,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267596,23,2,2016/2017,217,Barcelona,2,male,214,Spain,205,Leganés,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266273,22,2,2016/2017,206,Deportivo Alavés,0,male,214,Spain,217,Barcelona,6,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266280,30,2,2016/2017,217,Barcelona,3,male,214,Spain,213,Sevilla,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266191,13,2,2016/2017,210,Real Sociedad,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266357,15,2,2016/2017,422,Osasuna,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266528,16,2,2016/2017,217,Barcelona,4,male,214,Spain,214,Espanyol,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266516,20,2,2016/2017,218,Real Betis,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266731,19,2,2016/2017,322,Eibar,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266874,21,2,2016/2017,217,Barcelona,3,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266989,11,2,2016/2017,213,Sevilla,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267077,35,2,2016/2017,214,Espanyol,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267220,5,2,2016/2017,217,Barcelona,1,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267492,8,2,2016/2017,217,Barcelona,4,male,214,Spain,219,Deportivo La Coruna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267101,34,2,2016/2017,217,Barcelona,7,male,214,Spain,422,Osasuna,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267670,1,2,2016/2017,217,Barcelona,6,male,214,Spain,218,Real Betis,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266033,9,2,2016/2017,207,Valencia,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265952,25,2,2016/2017,217,Barcelona,6,male,214,Spain,1041,Sporting Gijón,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267395,18,2,2016/2017,217,Barcelona,5,male,214,Spain,208,Las Palmas,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267212,4,2,2016/2017,205,Leganés,1,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267660,27,2,2016/2017,219,Deportivo La Coruna,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70260,21,24,2012/2013,217,Barcelona,5,male,214,Spain,422,Osasuna,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70263,14,24,2012/2013,217,Barcelona,5,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266015,17,24,2012/2013,901,Real Valladolid,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70271,25,24,2012/2013,217,Barcelona,2,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70262,2,24,2012/2013,422,Osasuna,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70256,29,24,2012/2013,209,Celta Vigo,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70259,1,24,2012/2013,217,Barcelona,5,male,214,Spain,210,Real Sociedad,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70272,26,24,2012/2013,220,Real Madrid,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70270,5,24,2012/2013,217,Barcelona,2,male,214,Spain,1049,Granada,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70281,34,24,2012/2013,217,Barcelona,4,male,214,Spain,218,Real Betis,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70308,10,24,2012/2013,217,Barcelona,3,male,214,Spain,209,Celta Vigo,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70282,22,24,2012/2013,207,Valencia,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70309,12,24,2012/2013,217,Barcelona,3,male,214,Spain,395,Real Zaragoza,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70284,35,24,2012/2013,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70287,20,24,2012/2013,210,Real Sociedad,3,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70304,8,24,2012/2013,219,Deportivo La Coruna,4,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70275,6,24,2012/2013,213,Sevilla,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70300,7,24,2012/2013,217,Barcelona,2,male,214,Spain,220,Real Madrid,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70297,23,24,2012/2013,217,Barcelona,6,male,214,Spain,216,Getafe,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70276,9,24,2012/2013,360,Rayo Vallecano,0,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70280,13,24,2012/2013,221,Levante,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70295,15,24,2012/2013,218,Real Betis,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70286,3,24,2012/2013,217,Barcelona,1,male,214,Spain,207,Valencia,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70294,24,24,2012/2013,1049,Granada,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70307,28,24,2012/2013,217,Barcelona,3,male,214,Spain,360,Rayo Vallecano,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70305,27,24,2012/2013,217,Barcelona,2,male,214,Spain,219,Deportivo La Coruna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70292,4,24,2012/2013,216,Getafe,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70296,16,24,2012/2013,217,Barcelona,4,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266724,11,24,2012/2013,1043,Mallorca,2,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266827,19,24,2012/2013,223,Málaga,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267502,33,24,2012/2013,215,Athletic Bilbao,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266433,18,24,2012/2013,217,Barcelona,4,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266883,13,25,2013/2014,218,Real Betis,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70301,4,25,2013/2014,217,Barcelona,3,male,214,Spain,213,Sevilla,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70306,31,25,2013/2014,214,Espanyol,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70289,35,25,2013/2014,222,Villarreal,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70288,20,25,2013/2014,221,Levante,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70302,5,25,2013/2014,360,Rayo Vallecano,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70277,1,25,2013/2014,217,Barcelona,7,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70291,21,25,2013/2014,217,Barcelona,3,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70298,3,25,2013/2014,207,Valencia,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70293,10,25,2013/2014,217,Barcelona,2,male,214,Spain,220,Real Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70283,12,25,2013/2014,217,Barcelona,1,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265837,25,25,2013/2014,210,Real Sociedad,3,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265857,29,25,2013/2014,220,Real Madrid,3,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266066,26,25,2013/2014,217,Barcelona,4,male,214,Spain,403,Almería,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266420,7,25,2013/2014,403,Almería,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266462,9,25,2013/2014,422,Osasuna,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266603,27,25,2013/2014,901,Real Valladolid,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267368,32,25,2013/2014,217,Barcelona,3,male,214,Spain,218,Real Betis,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267567,34,25,2013/2014,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265830,19,25,2013/2014,212,Atlético Madrid,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266201,37,25,2013/2014,1042,Elche,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266613,22,25,2013/2014,217,Barcelona,2,male,214,Spain,207,Valencia,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266491,36,25,2013/2014,217,Barcelona,2,male,214,Spain,216,Getafe,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267192,11,25,2013/2014,209,Celta Vigo,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266256,38,25,2013/2014,217,Barcelona,1,male,214,Spain,212,Atlético Madrid,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267675,23,25,2013/2014,213,Sevilla,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266274,30,25,2013/2014,217,Barcelona,3,male,214,Spain,209,Celta Vigo,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267520,6,25,2013/2014,217,Barcelona,4,male,214,Spain,210,Real Sociedad,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+266074,28,25,2013/2014,217,Barcelona,7,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+267138,33,25,2013/2014,1049,Granada,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+265918,24,25,2013/2014,217,Barcelona,6,male,214,Spain,360,Rayo Vallecano,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69236,6,22,2010/2011,217,Barcelona,1,male,214,Spain,1043,Mallorca,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69234,35,22,2010/2011,217,Barcelona,2,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69246,34,22,2010/2011,210,Real Sociedad,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69248,23,22,2010/2011,1041,Sporting Gijón,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69260,7,22,2010/2011,217,Barcelona,2,male,214,Spain,207,Valencia,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69263,8,22,2010/2011,395,Real Zaragoza,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69272,36,22,2010/2011,221,Levante,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69269,3,22,2010/2011,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69270,10,22,2010/2011,216,Getafe,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69271,33,22,2010/2011,217,Barcelona,2,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69278,19,22,2010/2011,217,Barcelona,4,male,214,Spain,223,Málaga,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69276,22,22,2010/2011,217,Barcelona,3,male,214,Spain,212,Atlético Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69280,18,22,2010/2011,219,Deportivo La Coruna,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69275,16,22,2010/2011,214,Espanyol,1,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69283,25,22,2010/2011,1043,Mallorca,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69282,24,22,2010/2011,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69274,26,22,2010/2011,207,Valencia,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69287,2,22,2010/2011,217,Barcelona,0,male,214,Spain,1218,Hércules,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69286,1,22,2010/2011,1217,Racing Santander,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69289,9,22,2010/2011,217,Barcelona,5,male,214,Spain,213,Sevilla,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69291,28,22,2010/2011,213,Sevilla,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69296,21,22,2010/2011,1218,Hércules,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69295,20,22,2010/2011,217,Barcelona,3,male,214,Spain,1217,Racing Santander,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69300,27,22,2010/2011,217,Barcelona,1,male,214,Spain,395,Real Zaragoza,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69299,13,22,2010/2011,217,Barcelona,5,male,214,Spain,220,Real Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69304,30,22,2010/2011,222,Villarreal,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69307,14,22,2010/2011,422,Osasuna,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69308,11,22,2010/2011,217,Barcelona,3,male,214,Spain,222,Villarreal,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69302,15,22,2010/2011,217,Barcelona,5,male,214,Spain,210,Real Sociedad,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69303,29,22,2010/2011,217,Barcelona,2,male,214,Spain,216,Getafe,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69306,12,22,2010/2011,403,Almería,0,male,214,Spain,217,Barcelona,8,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69305,31,22,2010/2011,217,Barcelona,3,male,214,Spain,403,Almería,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69245,32,22,2010/2011,220,Real Madrid,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69164,11,38,2005/2006,217,Barcelona,2,male,214,Spain,223,Málaga,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69172,24,38,2005/2006,217,Barcelona,5,male,214,Spain,218,Real Betis,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68317,6,38,2005/2006,217,Barcelona,2,male,214,Spain,395,Real Zaragoza,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68322,16,38,2005/2006,552,Cádiz,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68325,21,38,2005/2006,1043,Mallorca,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68323,17,38,2005/2006,217,Barcelona,2,male,214,Spain,209,Celta Vigo,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68324,20,38,2005/2006,217,Barcelona,2,male,214,Spain,206,Deportivo Alavés,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68320,14,38,2005/2006,222,Villarreal,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68319,12,38,2005/2006,220,Real Madrid,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68318,8,38,2005/2006,217,Barcelona,3,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68339,10,38,2005/2006,216,Getafe,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68348,18,38,2005/2006,214,Espanyol,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68342,19,38,2005/2006,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68321,15,38,2005/2006,217,Barcelona,2,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68351,25,38,2005/2006,395,Real Zaragoza,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68350,22,38,2005/2006,217,Barcelona,1,male,214,Spain,212,Atlético Madrid,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68354,13,38,2005/2006,217,Barcelona,4,male,214,Spain,1217,Racing Santander,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16215,28,4,2018/2019,218,Real Betis,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16196,26,4,2018/2019,220,Real Madrid,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16205,27,4,2018/2019,217,Barcelona,3,male,214,Spain,360,Rayo Vallecano,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16131,19,4,2018/2019,217,Barcelona,3,male,214,Spain,322,Eibar,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16149,21,4,2018/2019,211,Girona,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16265,33,4,2018/2019,217,Barcelona,2,male,214,Spain,210,Real Sociedad,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16086,15,4,2018/2019,214,Espanyol,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16157,22,4,2018/2019,217,Barcelona,2,male,214,Spain,207,Valencia,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16317,38,4,2018/2019,322,Eibar,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16275,34,4,2018/2019,206,Deportivo Alavés,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16289,35,4,2018/2019,217,Barcelona,1,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16190,25,4,2018/2019,213,Sevilla,2,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15973,3,4,2018/2019,217,Barcelona,8,male,214,Spain,902,Huesca,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15946,1,4,2018/2019,217,Barcelona,3,male,214,Spain,206,Deportivo Alavés,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15956,2,4,2018/2019,901,Real Valladolid,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16056,12,4,2018/2019,217,Barcelona,3,male,214,Spain,218,Real Betis,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16023,8,4,2018/2019,207,Valencia,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16079,14,4,2018/2019,217,Barcelona,2,male,214,Spain,222,Villarreal,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16010,7,4,2018/2019,217,Barcelona,1,male,214,Spain,215,Athletic Bilbao,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16136,20,4,2018/2019,217,Barcelona,3,male,214,Spain,205,Leganés,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16109,17,4,2018/2019,217,Barcelona,2,male,214,Spain,209,Celta Vigo,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16240,30,4,2018/2019,222,Villarreal,4,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16095,16,4,2018/2019,221,Levante,0,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16173,23,4,2018/2019,215,Athletic Bilbao,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16120,18,4,2018/2019,216,Getafe,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16182,24,4,2018/2019,217,Barcelona,1,male,214,Spain,901,Real Valladolid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15978,4,4,2018/2019,210,Real Sociedad,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16073,13,4,2018/2019,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15998,6,4,2018/2019,205,Leganés,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16029,9,4,2018/2019,217,Barcelona,4,male,214,Spain,213,Sevilla,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16306,37,4,2018/2019,217,Barcelona,2,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+15986,5,4,2018/2019,217,Barcelona,2,male,214,Spain,211,Girona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16231,29,4,2018/2019,217,Barcelona,2,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+16248,31,4,2018/2019,217,Barcelona,2,male,214,Spain,212,Atlético Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69154,22,39,2006/2007,217,Barcelona,2,male,214,Spain,1217,Racing Santander,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69155,31,39,2006/2007,222,Villarreal,2,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69157,36,39,2006/2007,217,Barcelona,1,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69156,32,39,2006/2007,217,Barcelona,1,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69159,30,39,2006/2007,217,Barcelona,1,male,214,Spain,1043,Mallorca,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69165,37,39,2006/2007,217,Barcelona,2,male,214,Spain,214,Espanyol,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69162,34,39,2006/2007,217,Barcelona,1,male,214,Spain,218,Real Betis,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69160,33,39,2006/2007,210,Real Sociedad,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68326,1,39,2006/2007,209,Celta Vigo,2,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68333,24,39,2006/2007,217,Barcelona,3,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68336,38,39,2006/2007,1036,Gimnàstic Tarragona,1,male,214,Spain,217,Barcelona,5,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68330,7,39,2006/2007,220,Real Madrid,2,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68332,23,39,2006/2007,207,Valencia,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68331,10,39,2006/2007,217,Barcelona,3,male,214,Spain,395,Real Zaragoza,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68329,6,39,2006/2007,217,Barcelona,3,male,214,Spain,213,Sevilla,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68334,25,39,2006/2007,213,Sevilla,2,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68327,2,39,2006/2007,217,Barcelona,3,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68328,4,39,2006/2007,217,Barcelona,1,male,214,Spain,207,Valencia,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68335,26,39,2006/2007,217,Barcelona,3,male,214,Spain,220,Real Madrid,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68340,3,39,2006/2007,1217,Racing Santander,0,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68341,27,39,2006/2007,1220,Recreativo Huelva,0,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+68347,5,39,2006/2007,215,Athletic Bilbao,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69176,35,39,2006/2007,212,Atlético Madrid,0,male,214,Spain,217,Barcelona,6,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69174,9,39,2006/2007,219,Deportivo La Coruna,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69175,28,39,2006/2007,217,Barcelona,2,male,214,Spain,219,Deportivo La Coruna,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69179,29,39,2006/2007,395,Real Zaragoza,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69264,3,23,2011/2012,210,Real Sociedad,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69265,7,23,2011/2012,1041,Sporting Gijón,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69268,2,23,2011/2012,217,Barcelona,5,male,214,Spain,222,Villarreal,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69293,8,23,2011/2012,217,Barcelona,3,male,214,Spain,1217,Racing Santander,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70219,32,23,2011/2012,395,Real Zaragoza,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69312,18,23,2011/2012,214,Espanyol,1,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69315,14,23,2011/2012,216,Getafe,1,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69318,10,23,2011/2012,1049,Granada,0,male,214,Spain,217,Barcelona,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69314,11,23,2011/2012,217,Barcelona,5,male,214,Spain,1043,Mallorca,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69316,22,23,2011/2012,217,Barcelona,2,male,214,Spain,210,Real Sociedad,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69320,37,23,2011/2012,217,Barcelona,4,male,214,Spain,214,Espanyol,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69319,38,23,2011/2012,218,Real Betis,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69322,27,23,2011/2012,1217,Racing Santander,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69323,31,23,2011/2012,217,Barcelona,2,male,214,Spain,215,Athletic Bilbao,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70221,34,23,2011/2012,221,Levante,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69324,35,23,2011/2012,217,Barcelona,1,male,214,Spain,220,Real Madrid,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70225,29,23,2011/2012,217,Barcelona,5,male,214,Spain,1049,Granada,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70223,5,23,2011/2012,207,Valencia,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69331,13,23,2011/2012,217,Barcelona,4,male,214,Spain,395,Real Zaragoza,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69328,24,23,2011/2012,217,Barcelona,5,male,214,Spain,207,Valencia,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69325,30,23,2011/2012,1043,Mallorca,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69327,19,23,2011/2012,217,Barcelona,4,male,214,Spain,218,Real Betis,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69326,28,23,2011/2012,213,Sevilla,0,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69329,9,23,2011/2012,217,Barcelona,0,male,214,Spain,213,Sevilla,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69333,15,23,2011/2012,217,Barcelona,5,male,214,Spain,221,Levante,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69332,17,23,2011/2012,217,Barcelona,4,male,214,Spain,360,Rayo Vallecano,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70220,4,23,2011/2012,217,Barcelona,8,male,214,Spain,422,Osasuna,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+70224,36,23,2011/2012,360,Rayo Vallecano,0,male,214,Spain,217,Barcelona,7,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69335,1,23,2011/2012,223,Málaga,1,male,214,Spain,217,Barcelona,4,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69338,21,23,2011/2012,222,Villarreal,0,male,214,Spain,217,Barcelona,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69340,20,23,2011/2012,217,Barcelona,4,male,214,Spain,223,Málaga,1,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69337,25,23,2011/2012,212,Atlético Madrid,1,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69334,16,23,2011/2012,220,Real Madrid,1,male,214,Spain,217,Barcelona,3,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69336,23,23,2011/2012,422,Osasuna,3,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69343,33,23,2011/2012,217,Barcelona,4,male,214,Spain,216,Getafe,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69330,12,23,2011/2012,215,Athletic Bilbao,2,male,214,Spain,217,Barcelona,2,male,214,Spain,11,La Liga,1,Regular Season,Spain
+69297,6,23,2011/2012,217,Barcelona,5,male,214,Spain,212,Atlético Madrid,0,male,214,Spain,11,La Liga,1,Regular Season,Spain
