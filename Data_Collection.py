@@ -5,12 +5,13 @@ import glob
 from flatten_json import flatten
 import numpy as np
 
-#competitions 
+#collecting dompetitions data into a dataframe
 competitions_df = pandas.read_json('/home/vivek/football/open-data/data/competitions.json')
 
-#matches
+#collecting json file paths of all matches in tournament code specified
 matches_list = glob.glob('/home/vivek/football/open-data/data/matches/43/*.json')
 
+#collecting data out of all files in the tournament in a dataframe
 matches_df = pandas.DataFrame()
 for i in range (len(matches_list)):
     with open(matches_list[i]) as data_file:    
@@ -21,9 +22,10 @@ for i in range (len(matches_list)):
     matches_df = matches_df.append(data_flattened_df)
 matches_df = matches_df.dropna(axis='columns')
 
+#list containing match_id of all games in the tournament
 match_id_list = matches_df['match_id']
 
-#events
+#initialising empty dataframes for all types of events
 passes_df = pandas.DataFrame()
 starting_line_up_df = pandas.DataFrame()
 ball_receipt_df = pandas.DataFrame()
@@ -52,14 +54,8 @@ shot_df = pandas.DataFrame()
 substitution_df = pandas.DataFrame()
 tactical_shift_df = pandas.DataFrame()
 
-################################################################################
-#Siddhant: range(16,32)
-#Vedant: range(32,48)
-#Shushrut: range(48,64)
-################################################################################
-
+#running through every event of every match of the tournament and appending them to the relevant dataframe
 for i in range():
-
     with open('/home/vivek/football/open-data/data/events/{}.json'.format(match_id_list[i])) as data_file:    
         data = json.load(data_file)
     data_flattened_df = json_normalize(data)
@@ -120,11 +116,7 @@ for i in range():
             tactical_shift_df = tactical_shift_df.append(data_flattened_df.iloc[j])
     print(i)
 
-
-
-
-
-
+#saving .csv files of all events dataframes
 passes_df.to_csv('passes.csv', index = False)
 starting_line_up_df.to_csv('starting_line_up.csv', index = False)
 ball_receipt_df.to_csv('ball_receipt.csv', index = False)
