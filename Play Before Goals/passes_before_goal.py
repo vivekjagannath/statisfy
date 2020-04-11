@@ -9,9 +9,9 @@ from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 from FCPython import createPitch
 
-with open('open-data/data/matches/43/3.json') as matches:
+with open('matches/43/3.json') as matches:
     data = json.load(matches)
-matches_df = pandas.json_normalize(data)
+matches_df = pandas.io.json.json_normalize(data)
 matches_df = matches_df.sort_values('match_id')
 
 for i in range(len(matches_df)):
@@ -19,9 +19,9 @@ for i in range(len(matches_df)):
         id = matches_df.iloc[i]['match_id']
         break
 
-with open('/home/vivek/football/open-data/data/events/{}.json'.format(id)) as events:
+with open('events/{}.json'.format(id)) as events:
     data = json.load(events)
-match_events_df = pandas.json_normalize(data)
+match_events_df = pandas.io.json.json_normalize(data)
 math_events_df = match_events_df.sort_values('index')
 
 goal_indices = []
@@ -47,6 +47,7 @@ for i in range(len(goal_indices)):
 #Plotting on 
 pitchLengthX=120
 pitchWidthY=80
+circleSize=2
 
 for i in range(len(dict_of_passes)):
     (fig,ax) = createPitch(pitchLengthX,pitchWidthY,'yards','black')
@@ -61,8 +62,8 @@ for i in range(len(dict_of_passes)):
     y = match_events_df.iloc[goal_indices[i]]['location'][1]
     dx= match_events_df.iloc[goal_indices[i]]['shot.end_location'][0] - x
     dy= match_events_df.iloc[goal_indices[i]]['shot.end_location'][1] - y
-    passArrow=plt.Arrow(x,pitchWidthY-y,dx,dy,width=2,color="red")
-    ax.add_patch(passArrow)
+    shotCircle=plt.Circle((x,pitchWidthY-y),circleSize,color="red")
+    ax.add_patch(shotCircle)
 
 fig.set_size_inches(10, 7)
 plt.show()    
