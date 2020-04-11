@@ -1,6 +1,13 @@
 import json
 import pandas
 from pandas.io.json import json_normalize
+import numpy as np
+import matplotlib.cm as cm
+import matplotlib.pyplot as plt
+import matplotlib.cbook as cbook
+from matplotlib.path import Path
+from matplotlib.patches import PathPatch
+from FCPython import createPitch
 
 with open('open-data/data/matches/43/3.json') as matches:
     data = json.load(matches)
@@ -36,3 +43,26 @@ for i in range(len(goal_indices)):
             break
     dict_of_passes[i] = passes_indices
     passes_indices = []
+
+#Plotting on 
+pitchLengthX=120
+pitchWidthY=80
+
+for i in range(len(dict_of_passes)):
+    (fig,ax) = createPitch(pitchLengthX,pitchWidthY,'yards','black')
+    for j in range(len(dict_of_passes[i])):
+        x = match_events_df.iloc[dict_of_passes[i][j]]['location'][0]
+        y = match_events_df.iloc[dict_of_passes[i][j]]['location'][1]
+        dx= match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][0] - x 
+        dy= match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][1] - y
+        passArrow=plt.Arrow(x,pitchWidthY-y,dx,dy,width=2,color="blue")
+        ax.add_patch(passArrow)
+    x = match_events_df.iloc[goal_indices[i]]['location'][0]
+    y = match_events_df.iloc[goal_indices[i]]['location'][1]
+    dx= match_events_df.iloc[goal_indices[i]]['shot.end_location'][0] - x
+    dy= match_events_df.iloc[goal_indices[i]]['shot.end_location'][1] - y
+    passArrow=plt.Arrow(x,pitchWidthY-y,dx,dy,width=2,color="red")
+    ax.add_patch(passArrow)
+
+fig.set_size_inches(10, 7)
+plt.show()    
