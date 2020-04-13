@@ -9,7 +9,7 @@ from matplotlib.path import Path
 from matplotlib.patches import PathPatch
 from FCPython import createPitch
 
-with open('matches/43/3.json') as matches:
+with open('/home/vivek/football/open-data/data/matches/43/3.json') as matches:
     data = json.load(matches)
 matches_df = pandas.io.json.json_normalize(data)
 matches_df = matches_df.sort_values('match_id')
@@ -19,7 +19,7 @@ for i in range(len(matches_df)):
         id = matches_df.iloc[i]['match_id']
         break
 
-with open('events/{}.json'.format(id)) as events:
+with open('/home/vivek/football/open-data/data/events/{}.json'.format(id)) as events:
     data = json.load(events)
 match_events_df = pandas.io.json.json_normalize(data)
 math_events_df = match_events_df.sort_values('index')
@@ -51,19 +51,19 @@ circleSize=2
 
 for i in range(len(dict_of_passes)):
     (fig,ax) = createPitch(pitchLengthX,pitchWidthY,'yards','black')
-    for j in range(len(dict_of_passes[i])):
+    for j in range(len(dict_of_passes[i])-1, -1, -1):
         x = match_events_df.iloc[dict_of_passes[i][j]]['location'][0]
-        y = match_events_df.iloc[dict_of_passes[i][j]]['location'][1]
-        dx= match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][0] - x 
-        dy= match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][1] - y
-        passArrow=plt.Arrow(x,pitchWidthY-y,dx,dy,width=2,color="blue")
+        y = 40 + (40 - match_events_df.iloc[dict_of_passes[i][j]]['location'][1])
+        dx= match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][0] - x
+        dy= 40 + (40 - match_events_df.iloc[dict_of_passes[i][j]]['pass.end_location'][1]) - y
+        passArrow=plt.Arrow(x,y,dx,dy,width=2,color="blue")
         ax.add_patch(passArrow)
     x = match_events_df.iloc[goal_indices[i]]['location'][0]
-    y = match_events_df.iloc[goal_indices[i]]['location'][1]
+    y = 40 + (40 - match_events_df.iloc[goal_indices[i]]['location'][1])
     dx= match_events_df.iloc[goal_indices[i]]['shot.end_location'][0] - x
-    dy= match_events_df.iloc[goal_indices[i]]['shot.end_location'][1] - y
-    shotCircle=plt.Circle((x,pitchWidthY-y),circleSize,color="red")
-    ax.add_patch(shotCircle)
+    dy= 40+ (40 - match_events_df.iloc[goal_indices[i]]['shot.end_location'][1]) - y
+    passArrow=plt.Arrow(x,y,dx,dy,width=2,color="red")
+    ax.add_patch(passArrow)
 
 fig.set_size_inches(10, 7)
 plt.show()    
