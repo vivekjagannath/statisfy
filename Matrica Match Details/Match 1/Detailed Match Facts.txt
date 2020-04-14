@@ -1,0 +1,51 @@
+INTERCEPTION              290
+THEFT                      44
+TACKLE-WON                 37
+HEAD                       37
+FREE KICK                  32
+TACKLE-LOST                29
+THROW IN                   28
+AERIAL-WON                 27
+GROUND-WON                 26
+AERIAL-LOST                22
+GROUND-LOST                21
+GOAL KICK                  17
+TACKLE-FAULT-LOST          17
+TACKLE-FAULT-WON           16
+CROSS-INTERCEPTION         14
+CLEARANCE                  11
+CORNER KICK                11
+GROUND-FAULT-WON           10
+OFF TARGET-OUT              9
+GROUND-FAULT-LOST           8
+SAVED                       7
+GROUND                      6
+KICK OFF                    6
+ON TARGET-SAVED             5
+CROSS                       5
+HEAD-INTERCEPTION           5
+GOAL KICK-INTERCEPTION      5
+AERIAL-FAULT-WON            4
+YELLOW                      4
+AERIAL-FAULT-LOST           4
+HEAD-CLEARANCE              4
+DEEP BALL                   3
+BLOCKED                     3
+FORCED                      3
+TACKLE-ADVANTAGE-WON        2
+TACKLE-ADVANTAGE-LOST       2
+HEAD-OFF TARGET-OUT         2
+HEAD-ON TARGET-SAVED        2
+ON TARGET-GOAL              2
+WOODWORK                    1
+WOODWORK-GOAL               1
+THROUGH BALL-DEEP BALL      1
+GROUND-ADVANTAGE-LOST       1
+OFF TARGET                  1
+OFFSIDE                     1
+REFEREE HIT                 1
+END HALF                    1
+HEAD-FORCED                 1
+HEAD-ON TARGET-GOAL         1
+HEAD-WOODWORK-OUT           1
+DRIBBLE-WON                 1
