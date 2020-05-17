@@ -52,6 +52,5 @@ for i,shot in shots.iterrows():
 plt.text(5,75,away_team_required + ' shots') 
 plt.text(80,75,home_team_required + ' shots') 
      
-fig.set_size_inches(10, 7)
-fig.savefig('\shots.pdf', dpi=100) 
+fig.set_size_inches(10, 7) 
 plt.show()
